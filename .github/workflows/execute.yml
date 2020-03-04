@@ -20,4 +20,4 @@ jobs:
     - name: Install dependencies
       run: pip install -r requirements.txt
     - name: Run
-      run: ./task-bot.py srobo/tasks
+      run: ./task-bot.py sourcebots/tasks
